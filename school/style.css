@@ -6,5 +6,16 @@ h1 {
    }
 
 body {
-  font-family: Georgia,Times,Times New Roman,serif; 
+    font-family: Georgia,Times,Times New Roman,serif; 
+  }
+
+body{
+    background-image: url('https://i.pinimg.com/736x/6c/95/01/6c95010aa6f0987b34e62a012b5309c6.jpg');
+    background-size: cover;
+    
+    
+    
+    height: 100vh;
+    padding:0;
+    margin:0;
 }
