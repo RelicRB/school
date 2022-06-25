@@ -7,5 +7,22 @@ h1 {
 
 body {
     font-family: Georgia,Times,Times New Roman,serif; 
+    padding: 30px;
   }
-
+h2{
+  color: bisque;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+button{
+  background-color: blueviolet;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  font-size: large;
+  text-align: right;
+  margin-left: 0px;
+}
