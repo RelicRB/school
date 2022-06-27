@@ -29,6 +29,8 @@ header {
   text-align: right;
   margin-left: 20px;
   color: aquamarine;
+  margin-right: 60px;
+  
 }
 .home{
   background-color: blueviolet;
@@ -36,8 +38,9 @@ header {
   margin-bottom: 20px;
   border-radius: 5px;
   font-size: large;
-  margin-left: 945px;
+  margin-left: 870px;
   color: aquamarine;
+  
 }
 .school{
   color: beige;
