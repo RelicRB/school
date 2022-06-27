@@ -20,7 +20,7 @@ header {
   background-color: rgba(46, 12, 12, 0.664);
   
 }
-button{
+.button{
   background-color: blueviolet;
   margin-bottom: 20px;
   margin-top: 20px;
@@ -29,4 +29,22 @@ button{
   text-align: right;
   margin-left: 20px;
   color: aquamarine;
+}
+.home{
+  background-color: blueviolet;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  font-size: large;
+  margin-left: 945px;
+  color: aquamarine;
+}
+.school{
+  color: beige;
+  margin-left: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+}
+img{
+  margin-left: 20px;
 }
